@@ -257,11 +257,11 @@
                 "type": "Account",
                 "referenceId": "AccountRef50"
             },
-            "Name": "Your Name",
+            "Name": "Vrushabh Uprikar",
             "BillingStreet": "1234 Trailblazer Way",
             "BillingCity": "San Francisco",
             "BillingState": "California",
-            "Description": "Add your own sentence here."
+            "Description": "Hi, I am Salesforce Developer."
         }
     ]
 }
